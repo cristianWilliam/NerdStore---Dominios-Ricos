@@ -1,5 +1,5 @@
-﻿using EventSourcing;
-using MediatR;
+﻿using MediatR;
+using EventSourcing;
 using Microsoft.Extensions.DependencyInjection;
 using NerdStore.Catalogo.Application.Services;
 using NerdStore.Catalogo.Data;
